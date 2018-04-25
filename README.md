@@ -1,1 +1,1 @@
-# Multiplier-
+# Multiplier with Pipelining for efficiency
